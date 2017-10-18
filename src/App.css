@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  font-size: 35px;
+  margin-top: 10%;
+}
+
+.App-title {
+  font-size: 50px;
+}
+
+.clock-days, .clock-hours, .clock-minutes, .clock-seconds {
+  display: inline;
+  margin: 20px;
+}
+
+.deadline-input {
+  font-size: 25px;
+  margin: 5px;
+}
+
+.stopwatch-hours, .stopwatch-minutes, .stopwatch-seconds {
+  display: inline;
+  margin: 20px;
+}
+
+.countertime-input {
+  font-size: 25px;
+  margin: 5px;
+}
